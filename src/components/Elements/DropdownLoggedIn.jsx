@@ -9,11 +9,7 @@ export const DropdownLoggedIn = ({dropdown, setDropDown}) => {
 
 const [user , setUser] = useState({}) ;
 
-function handleLogOut(){
-    setDropDown(!dropdown);
-    logout();
-    navigate("/productList");
-}
+
 
    useEffect(() => {
     async function fetchData (){
@@ -36,7 +32,13 @@ function handleLogOut(){
        
     }
     fetchData();
-   } , [handleLogOut])
+   } , []) ; //eslint-disable-line
+
+   function handleLogOut(){
+    setDropDown(!dropdown);
+    logout();
+    navigate("/productList");
+}
     
 
  
