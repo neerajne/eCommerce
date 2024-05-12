@@ -3,8 +3,8 @@
     {
       "id": 10001,
       "name": "Basics To Advanced In React",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Embark on a transformative journey through the world of React with Basic to advanced in react. From laying the groundwork with fundamental concepts to mastering advanced techniques, our codeBook is your gateway to becoming a proficient React developer.",
+      "long_description": "Unlock the full potential of React and elevate your development skills with Basic to advanced in react. Our codeBook offers a comprehensive learning experience tailored to beginners and seasoned developers alike. Dive deep into React fundamentals and explore advanced concepts through immersive tutorials and hands-on projects. ",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10001.avif",
@@ -16,8 +16,8 @@
     {
       "id": 10002,
       "name": "Django Framework for Beginners",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Master Django from the ground up with our beginner-friendly project. Dive into building dynamic web applications with ease.",
+      "long_description": "Discover Django's power for beginners in our comprehensive project. Learn to build dynamic web applications effortlessly while diving into Django's core concepts. Join a vibrant community, collaborate, and accelerate your Django journey with us.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10002.avif",
@@ -29,8 +29,8 @@
     {
       "id": 10003,
       "name": "The Future of Design Systems",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Explore the evolution and potential of design systems with our project, delving into their transformative role in shaping the future of digital design..",
+      "long_description": "In our project, we delve into the fascinating realm of design systems, examining their evolution, impact, and the exciting possibilities they hold for the future of digital design. From streamlining workflows to ensuring consistency across platforms, design systems have become indispensable tools for organizations seeking to deliver cohesive and user-centric experiences. ",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10003.avif",
@@ -42,8 +42,8 @@
     {
       "id": 10004,
       "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Embark on a comprehensive journey through backend development with our project, offering a detailed guide for both beginners and experienced developers.",
+      "long_description": " Welcome to The Complete Guide to Backend Development,your go-to resource for mastering the intricacies of building robust server-side applications. Whether you're just starting your journey in backend development or seeking to enhance your skills, our project covers everything you need to know. From understanding fundamental concepts like databases, APIs, and server architecture to exploring advanced topics such as microservices, cloud computing, and scalability, we provide in-depth tutorials, hands-on exercises, and real-world examples to guide you every step of the way. Join our community of learners, share insights, and unlock the full potential of backend development with us",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10004.avif",
@@ -55,8 +55,8 @@
     {
       "id": 10005,
       "name": "Build a Blockchain from Scratch in Go",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Explore the world of blockchain technology by building your own blockchain from scratch in Go with our comprehensive project.",
+      "long_description": " Dive deep into the fascinating world of blockchain technology with our project, where you'll embark on a journey to build your very own blockchain from scratch using the Go programming language. Through a series of hands-on tutorials, you'll learn the fundamental concepts behind blockchain, including cryptographic hashing, distributed consensus, and decentralized networks. ",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10005.avif",
@@ -68,8 +68,8 @@
     {
       "id": 10006,
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Accelerate your frontend development journey with our Fastlane Plan, a curated roadmap designed to help you master essential frontend technologies through hands-on projects.",
+      "long_description": "Welcome to the Frontend Fastlane Plan, your express route to mastering frontend development. Our plan is tailored for developers of all levels, providing a structured roadmap to navigate through the rapidly evolving landscape of frontend technologies. Through a series of carefully crafted projects, you'll dive deep into essential frontend tools and frameworks, gaining practical experience and honing your skills along the way.From building responsive layouts with HTML, CSS, and JavaScript to harnessing the power of modern frontend libraries and frameworks like React, Vue.js, and Angular, our Fastlane Plan covers it all. Each project is designed to reinforce key concepts and techniques, allowing you to progress rapidly while building a robust portfolio of real-world applications.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10006.avif",
@@ -81,8 +81,8 @@
     {
       "id": 10007,
       "name": "Master the Code Review",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Unlock the art of effective code review with our comprehensive guide, equipping you with the skills to elevate your software development workflow.",
+      "long_description": "Welcome to Master the Code Review, your definitive resource for honing your code review skills and optimizing your software development process. In this project, we delve into the critical role of code review in ensuring code quality, fostering collaboration, and driving continuous improvement within development teams.Through a series of in-depth tutorials and practical exercises, you'll learn the principles of effective code review, including best practices for providing constructive feedback, identifying common code smells and anti-patterns, and promoting adherence to coding standards and conventions. You'll also explore strategies for managing code review workflows, leveraging code review tools and automation, and fostering a culture of accountability and excellence within your team.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10007.avif",
@@ -94,8 +94,8 @@
     {
       "id": 10008,
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Embark on a comprehensive journey through JavaScript, from basics to advanced concepts, guided by Shubham, our expert instructor.",
+      "long_description": "Join us on an exciting adventure through the world of JavaScript, where you'll progress from foundational concepts to advanced techniques under the expert guidance of Shubham. Our project offers a structured learning path that caters to learners of all levels, whether you're a complete beginner or an experienced developer looking to deepen your understanding of JavaScript.      Through a series of engaging tutorials, hands-on exercises, and real-world projects, you'll build a solid understanding of JavaScript fundamentals, including variables, data types, control flow, functions, and objects. As you advance, you'll explore more advanced topics such as asynchronous programming, closures, prototypal inheritance, and functional programming paradigms.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10008.avif",
@@ -107,8 +107,8 @@
     {
       "id": 10009,
       "name": "Python Deep Dive With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Delve into the depths of Python programming with our immersive project-based learning experience, designed to empower you with practical skills and knowledge.",
+      "long_description": "Welcome to Python Deep Dive With Projects, your passport to mastering Python programming through hands-on projects and in-depth tutorials. Whether you're a novice coder or an experienced developer looking to expand your Python prowess, our project offers a comprehensive learning journey that covers the breadth and depth of the Python language.Throughout this project, you'll explore Python's core concepts and advanced features, including data structures, object-oriented programming, functional programming, and asynchronous programming. Each module is accompanied by practical exercises and real-world projects that challenge you to apply your newfound knowledge in creative and meaningful ways.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10009.avif",
@@ -120,8 +120,8 @@
     {
       "id": 10010,
       "name": "Mastering Software Technique",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Master the art and science of software development with our comprehensive project, designed to hone your technical skills and elevate your programming expertise.      ",
+      "long_description": "Welcome to Mastering Software Technique, where we delve deep into the principles, practices, and techniques that underpin successful software development. Whether you're an aspiring programmer or a seasoned developer, our project offers a curated learning experience that covers the entire software development lifecycle, from conception to deployment and beyond.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10010.avif",
@@ -133,8 +133,8 @@
     {
       "id": 10011,
       "name": "Web Development Foundation",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Establish a solid foundation in web development with our project, offering a structured curriculum and hands-on exercises to kickstart your journey.",
+      "long_description": "Welcome to Web Development Foundation, your gateway to mastering the fundamental principles of web development. Whether you're a newcomer to the field or seeking to refresh your skills, our project provides a comprehensive introduction to the core technologies and concepts that underpin modern web development.Through a series of carefully curated tutorials, practical exercises, and real-world projects, you'll explore key topics such as HTML, CSS, JavaScript, and responsive design. From building static web pages to creating dynamic, interactive user interfaces, our project guides you through each step of the development process, empowering you to bring your ideas to life on the web.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10011.avif",
@@ -146,8 +146,8 @@
     {
       "id": 10012,
       "name": "Mastering Git and GitHub - A Practical Guide",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Unlock the full potential of version control with our project, Mastering Git and GitHub - A Practical Guide, designed to equip you with the skills and knowledge needed to effectively collaborate on projects and streamline your development workflow.",
+      "long_description": "Unlock the power of version control with our project, guiding you through the essentials of Git and GitHub. Learn to manage projects efficiently, collaborate seamlessly, and streamline your development workflow with practical techniques and real-world examples. Whether you're a beginner or seeking to enhance your skills, this project equips you with the knowledge and confidence to excel in modern software development.",
       "price": 9,
       "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10012.avif",
@@ -159,8 +159,8 @@
     {
       "id": 10013,
       "name": "Everything About React v16",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Explore React v16 comprehensively through our guide, covering core concepts, latest features, and best practices. .",
+      "long_description": " Discover the ins and outs of React v16 with our comprehensive guide. From its core concepts to the latest features, delve into React's ecosystem, including component lifecycles, hooks, context API, and more. Stay updated with the cutting-edge advancements and best practices in React development, empowering you to build powerful, scalable web applications with confidence and expertise..",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10013.avif",
@@ -172,8 +172,8 @@
     {
       "id": 10014,
       "name": "Diving Deep With Python 2.7",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Diving Deep With Python 2.7 takes you on an immersive journey into the depths of Python programming. From foundational concepts to advanced techniques, explore the intricacies of Python 2.7 and unlock its full potential for building powerful applications..",
+      "long_description": "Embark on a deep dive into Python 2.7 with our comprehensive project, where you'll uncover the nuances of this versatile programming language. Designed for developers eager to expand their Python proficiency, our project offers a detailed exploration of Python 2.7's features, syntax, and best practices.Through a series of in-depth tutorials, hands-on exercises, and real-world examples, you'll master essential Python concepts such as data types, control structures, functions, and object-oriented programming. Dive into advanced topics like decorators, generators, context managers, and metaprogramming, gaining a deeper understanding of Python's capabilities and flexibility.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10014.avif",
@@ -185,8 +185,8 @@
     {
       "id": 10015,
       "name": "Kickstart Your UI Design Career",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Kickstart Your UI Design Career is your gateway to entering the exciting world of UI design. Whether you're new to the field or seeking to transition from another discipline, our project provides the essential tools, resources, and guidance to launch your career successfully.",
+      "long_description": "Welcome to Kickstart Your UI Design Career, where we empower aspiring designers to turn their passion for creativity into a rewarding profession. In this project, you'll embark on a journey of discovery, learning the principles, techniques, and best practices that define modern UI design. Through a series of engaging tutorials, hands-on projects, and expert insights, you'll gain a comprehensive understanding of UI design fundamentals, including typography, color theory, layout principles, and user experience (UX) design. You'll also explore industry-standard tools and software, such as Adobe XD, Sketch, and Figma, mastering the skills needed to bring your design concepts to life.",
       "price": 9,
       "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10015.avif",
@@ -200,8 +200,8 @@
     {
       "id": 10004,
       "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Embark on a comprehensive journey through backend development with our project, offering a detailed guide for both beginners and experienced developers.",
+      "long_description": "Welcome to The Complete Guide to Backend Development,your go-to resource for mastering the intricacies of building robust server-side applications. Whether you're just starting your journey in backend development or seeking to enhance your skills, our project covers everything you need to know. From understanding fundamental concepts like databases, APIs, and server architecture to exploring advanced topics such as microservices, cloud computing, and scalability, we provide in-depth tutorials, hands-on exercises, and real-world examples to guide you every step of the way. Join our community of learners, share insights, and unlock the full potential of backend development with us",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10004.avif",
@@ -213,8 +213,8 @@
     {
       "id": 10006,
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Accelerate your frontend development journey with our Fastlane Plan, a curated roadmap designed to help you master essential frontend technologies through hands-on projects..",
+      "long_description": "Welcome to the Frontend Fastlane Plan, your express route to mastering frontend development. Our plan is tailored for developers of all levels, providing a structured roadmap to navigate through the rapidly evolving landscape of frontend technologies. Through a series of carefully crafted projects, you'll dive deep into essential frontend tools and frameworks, gaining practical experience and honing your skills along the way.From building responsive layouts with HTML, CSS, and JavaScript to harnessing the power of modern frontend libraries and frameworks like React, Vue.js, and Angular, our Fastlane Plan covers it all. Each project is designed to reinforce key concepts and techniques, allowing you to progress rapidly while building a robust portfolio of real-world applications .",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10006.avif",
@@ -226,8 +226,8 @@
     {
       "id": 10008,
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Embark on a comprehensive journey through JavaScript, from basics to advanced concepts, guided by Shubham, our expert instructor .",
+      "long_description": "Join us on an exciting adventure through the world of JavaScript, where you'll progress from foundational concepts to advanced techniques under the expert guidance of Shubham. Our project offers a structured learning path that caters to learners of all levels, whether you're a complete beginner or an experienced developer looking to deepen your understanding of JavaScript. Through a series of engaging tutorials, hands-on exercises, and real-world projects, you'll build a solid understanding of JavaScript fundamentals, including variables, data types, control flow, functions, and objects. As you advance, you'll explore more advanced topics such as asynchronous programming, closures, prototypal inheritance, and functional programming paradigms .",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10008.avif",
@@ -241,344 +241,27 @@
     {
       "cartList": [
         {
-          "id": 10001,
-          "name": "Basics To Advanced In React",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10001.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 5,
-          "best_seller": true
-        },
-        {
-          "id": 10002,
-          "name": "Django Framework for Beginners",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10002.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 2,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 48,
-      "quantity": 2,
-      "user": {
-        "name": "neeraj",
-        "email": "n@email.com",
-        "id": 4
-      },
-      "id": 1
-    },
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "id": 10006,
+          "name": "Frontend Fastlane Plan With Projects",
+          "overview": "Accelerate your frontend development journey with our Fastlane Plan, a curated roadmap designed to help you master essential frontend technologies through hands-on projects..",
+          "long_description": "Welcome to the Frontend Fastlane Plan, your express route to mastering frontend development. Our plan is tailored for developers of all levels, providing a structured roadmap to navigate through the rapidly evolving landscape of frontend technologies. Through a series of carefully crafted projects, you'll dive deep into essential frontend tools and frameworks, gaining practical experience and honing your skills along the way.From building responsive layouts with HTML, CSS, and JavaScript to harnessing the power of modern frontend libraries and frameworks like React, Vue.js, and Angular, our Fastlane Plan covers it all. Each project is designed to reinforce key concepts and techniques, allowing you to progress rapidly while building a robust portfolio of real-world applications .",
           "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
+          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10006.avif",
           "rating": 5,
           "in_stock": true,
-          "size": 7,
-          "best_seller": true
+          "size": 10,
+          "best_seller": false
         }
       ],
       "amount_paid": 99,
       "quantity": 1,
       "user": {
         "name": "neeraj",
-        "email": "n@email.com",
+        "email": "nn@email.com",
         "id": 4
       },
-      "id": 2
-    },
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        },
-        {
-          "id": 10006,
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 198,
-      "quantity": 2,
-      "user": {
-        "name": "princy",
-        "email": "p@email.com",
-        "id": 3
-      },
-      "id": 3
-    },
-    {
-      "cartList": [
-        {
-          "id": 10002,
-          "name": "Django Framework for Beginners",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10002.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 2,
-          "best_seller": false
-        },
-        {
-          "id": 10005,
-          "name": "Build a Blockchain from Scratch in Go",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10005.avif",
-          "rating": 3,
-          "in_stock": true,
-          "size": 3,
-          "best_seller": false
-        },
-        {
-          "id": 10006,
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 137,
-      "quantity": 3,
-      "user": {
-        "name": "princy",
-        "email": "p@email.com",
-        "id": 3
-      },
-      "id": 4
-    },
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        },
-        {
-          "id": 10006,
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 198,
-      "quantity": 2,
-      "user": {
-        "name": "princy",
-        "email": "p@email.com",
-        "id": 3
-      },
-      "id": 5
-    },
-    {
-      "cartList": [
-        {
-          "id": 10012,
-          "name": "Mastering Git and GitHub - A Practical Guide",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 9,
-          "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10012.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 1,
-          "best_seller": false
-        },
-        {
-          "id": 10011,
-          "name": "Web Development Foundation",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10011.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 3,
-          "best_seller": true
-        }
-      ],
-      "amount_paid": 38,
-      "quantity": 2,
-      "user": {
-        "name": "neeraj",
-        "email": "n@email.com",
-        "id": 4
-      },
-      "id": 6
-    },
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        },
-        {
-          "id": 10005,
-          "name": "Build a Blockchain from Scratch in Go",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10005.avif",
-          "rating": 3,
-          "in_stock": true,
-          "size": 3,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 118,
-      "quantity": 2,
-      "user": {
-        "name": "neeraj",
-        "email": "n@email.com",
-        "id": 4
-      },
-      "id": 7
-    },
-    {
-      "cartList": [
-        {
-          "id": 10001,
-          "name": "Basics To Advanced In React",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10001.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 5,
-          "best_seller": true
-        },
-        {
-          "id": 10002,
-          "name": "Django Framework for Beginners",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10002.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 2,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 48,
-      "quantity": 2,
-      "user": {
-        "name": "princy",
-        "email": "p@email.com",
-        "id": 3
-      },
-      "id": 8
-    },
-    {
-      "cartList": [
-        {
-          "id": 10004,
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        },
-        {
-          "id": 10006,
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 99,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 198,
-      "quantity": 2,
-      "user": {
-        "name": "neeraj",
-        "email": "n@email.com",
-        "id": 4
-      },
-      "id": 9
+      "id": 1
     }
   ],
   "users": [
@@ -589,20 +272,14 @@
       "id": 1
     },
     {
-      "email": "nebnvngberaj@example.com",
-      "password": "$2a$10$Zp1dTOX1CJEmB7DbBUnIsu7sFYkrTLy8d4.mkWskFnszFas6rLLVK",
-      "name": "neeraj",
-      "id": 2
-    },
-    {
       "email": "p@email.com",
       "password": "$2a$10$.mZ/RPQ7A1S5d1u5oKNMFu1wdRitU1hCsyQ6VDu6mvQFNJ/UQAC/G",
       "name": "princy",
       "id": 3
     },
     {
-      "email": "n@email.com",
-      "password": "$2a$10$YBwUFs33a5tFZBi4raqWtu3JlF5ox3406slL4FOAbbZjM1WZhzdo.",
+      "email": "nn@email.com",
+      "password": "$2a$10$Vp3kpJgMhBIXKo18mOkHYeYBU9evtbGBb8cwOS6e.brabI./9JHsG",
       "name": "neeraj",
       "id": 4
     }
