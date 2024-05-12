@@ -30,7 +30,7 @@ const [user , setUser] = useState({}) ;
        
     }
     fetchData();
-   } , [])
+   } , [handleLogOut])
     
 
     function handleLogOut(){
