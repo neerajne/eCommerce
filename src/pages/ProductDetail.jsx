@@ -2,9 +2,10 @@ import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom";
 import { Rating } from "../components";
 import { ChangeTitle } from "../hooks/ChangeTitle";
+import { toast  , Bounce} from "react-toastify";
 import { useCart } from "../Context";
 import { getProduct } from "../services";
-import { toast  , Bounce} from "react-toastify";
+
 
 export const ProductDetail = () => {
 
