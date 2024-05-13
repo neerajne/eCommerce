@@ -2,8 +2,9 @@ import { Route,Routes } from "react-router-dom" ;
 import {HomePage} from "../pages/Home/HomePage" ;
 import { Login, ProductsList, Register , OrderPage, Dashboardpage, PageNotFound } from "../pages";
 import { ProductDetail } from "../pages";
-import {CartPage} from "../pages/Cart/CartPage"
 import {ProtectedRoutes} from "./ProtectedRoutes" ;
+import {CartPage} from "../pages/Cart/CartPage"
+
 
 
 
